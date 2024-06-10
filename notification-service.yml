@@ -3,8 +3,8 @@ server:
 spring:
   data:
     mongodb:
-      username: phil
-      password: phil
+      username: root
+      password: password
       host: localhost
       port: 27017
       database: notification
